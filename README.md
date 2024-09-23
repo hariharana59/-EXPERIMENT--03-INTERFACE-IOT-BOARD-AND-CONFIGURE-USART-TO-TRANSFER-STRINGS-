@@ -1,4 +1,3 @@
-![exp 3](https://github.com/user-attachments/assets/4516d230-8d2b-460e-8097-fa6ba6292b11)
 ###  DATE: 23.09.2024
 
 ###  NAME: Hariharan A
